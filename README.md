@@ -2,11 +2,11 @@
 
 > 🌐 让全球AI触手可及 —— 基于 Cisco Secure Client 的全平台网络优化知识库
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/DirectionalAccelerate?style=social)](https://github.com/your-username/DirectionalAccelerate)
+[![GitHub stars](https://img.shields.io/github/stars/yangpin97/DirectionalAccelerate?style=social)](https://github.com/yangpin97/DirectionalAccelerate)
 [![公众号](https://img.shields.io/badge/公众号-定向加速-brightgreen?logo=wechat)](https://mp.weixin.qq.com/mp/redirect?url=https%3A%2F%2Fmp.weixin.qq.com%2F)
 [![平台](https://img.shields.io/badge/支持平台-iOS%20%7C%20Android%20%7C%20HarmonyOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)]()
 [![服务](https://img.shields.io/badge/服务-定向加速%20%7C%20AI访问优化-orange)]()
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2FDirectionalAccelerate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangpin97%2FDirectionalAccelerate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
