@@ -71,19 +71,7 @@
 - ✅ 一对一客服支持（微信：dxjs9527）
 - ✅ 行业动态与AI工具访问策略解读
 
-```
-┌─────────────────────────────────────┐
-│                                     │
-│          📱 定向加速                 │
-│           公众号                     │
-│                                     │
-│         <img width="375" height="141" alt="image" src="https://github.com/user-attachments/assets/59e6a2fc-2d23-4eb5-8432-2e25c8b1951b" />
-                             │
-│                                     │
-│     扫码关注 → 获取3天免费试用        │
-│                                     │
-└─────────────────────────────────────┘
-```
+<img width="375" height="141" alt="image" src="https://github.com/user-attachments/assets/6c8663cc-bc06-4aa5-ac84-91ee9f9f023a" />
 
 ---
 
