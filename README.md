@@ -1,6 +1,6 @@
 # DirectionalAccelerate · 定向加速
 
-> 🌐 让全球AI触手可及 —— 基于 Cisco Secure Client 的全平台网络优化方案。
+> 🌐 让全球 **AI** 触手可及 —— 基于 Cisco Secure Client 的全平台网络优化方案。
 
 [![GitHub stars](https://img.shields.io/github/stars/yangpin97/DirectionalAccelerate?style=social)](https://github.com/yangpin97/DirectionalAccelerate)
 [![公众号](https://img.shields.io/badge/公众号-定向加速-brightgreen?logo=wechat)](https://mp.weixin.qq.com/s/-O4n1PpxvW5_cZGzREa1jg)
