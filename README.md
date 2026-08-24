@@ -6,13 +6,12 @@
 [![公众号](https://img.shields.io/badge/公众号-定向加速-brightgreen?logo=wechat)](https://mp.weixin.qq.com/s/-O4n1PpxvW5_cZGzREa1jg)
 [![平台](https://img.shields.io/badge/支持平台-iOS%20%7C%20Android%20%7C%20HarmonyOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://mp.weixin.qq.com/s/-O4n1PpxvW5_cZGzREa1jg)
 [![服务](https://img.shields.io/badge/服务-定向加速%20%7C%20AI访问优化-orange)](https://mp.weixin.qq.com/s/-O4n1PpxvW5_cZGzREa1jg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangpin97%2FDirectionalAccelerate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
 ## 📖 项目简介
 
-**DirectionalAccelerate（定向加速）** 是一个专注于为国内开发者、AI从业者及跨境业务团队提供 **稳定、合规网络访问方案** 的开源知识库。
+**DirectionalAccelerate（定向加速）** 是一个专注于为国内开发者、AI从业者及跨境业务团队提供 **稳定、合规网络访问方案** 。
 
 我们基于 **Cisco Secure Client**（原 AnyConnect）企业级技术，为以下场景提供全平台客户端部署教程与定向加速服务：
 
@@ -60,7 +59,6 @@
 | :--- | :--- |
 | **GitHub** | 搜索 `DirectionalAccelerate`、`Cisco Secure Client`、`AI访问优化`、`Claude加速` |
 | **微信搜一搜** | 搜索 `定向加速` 或 `Cisco Secure Client 教程` |
-| **Google / Bing** | 搜索 `Cisco Secure Client 国内访问`、`Claude 网络优化` |
 
 ---
 
@@ -79,8 +77,8 @@
 │          📱 定向加速                 │
 │           公众号                     │
 │                                     │
-│       [  请在此放置你的              │
-│        公众号二维码图片  ]           │
+│         <img width="375" height="141" alt="image" src="https://github.com/user-attachments/assets/59e6a2fc-2d23-4eb5-8432-2e25c8b1951b" />
+                             │
 │                                     │
 │     扫码关注 → 获取3天免费试用        │
 │                                     │
